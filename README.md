@@ -1,8 +1,6 @@
 # StarsCraft
-# 这是由`Markdown`书写的页面
-# This is the page written in `Markdown`
-# Diq zŷ iq phī yôn `Markdown` sǔ shiă keq yiqmì
-### 中英沪三语对照 CHN-ENG-WUU translation  Zōn-In-wû sē gniû tĕ tsău
+
+## 中英沪三语对照 CHN-ENG-WUU translation  Zōn-In-wû sē gniû tĕ tsău
 
 ### ————————————————————————————————————————
 ## Minecraft 服务器  Minecraft Server Minecraft Veq wû chǐ
