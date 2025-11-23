@@ -17,6 +17,7 @@ Oe zhîn keq zhiân shǐ theq lheq iq yân
 ## 友情链接 Partner Yêuzhin Lîciq
 ### [由乃ちゃん的B站](https://space.bilibili.com/1280417334)
 ### [冬优ちゃん的小窝](https://fuibafuyu.net/)
+### [MCOCET的小窝](https://home.mcocet.top/)
 
 敬请期待，申请请查看联系方式
 Others coming soon, check Contact Information if you need to apply
