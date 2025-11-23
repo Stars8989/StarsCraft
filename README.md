@@ -25,8 +25,8 @@ Others coming soon, check Contact Information if you need to apply
 Cǐnchin Jîdê, Sēnchǐn chin khǒe Lîshǐ Fāonseq
 
 ## 赞助 Donate Tsězû
-![WeChat](https://photos.app.goo.gl/sacZgWRTC4oHzFWV7)
-![Alipay](https://photos.app.goo.gl/Je5nkMWD3whBjqCp7)
+![WeChat](wechat.jpg)
+![Alipay](alipay.jpg)
 
 ## 联系方式 Contact Information Lîshǐ Fāonseq
 ### QQ——1696723279
