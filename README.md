@@ -26,7 +26,7 @@ Cǐnchin Jîdê, Sēnchǐn chin khǒe Lîshǐ Fāonseq
 ## 赞助 Donate Tsězû
 ![WeChat](wechat.jpg)
 ![Alipay](alipay.jpg)
-## **感谢：*Stars8989某位不愿透露姓名的同学* **
+## *感谢：*Stars8989某位不愿透露姓名的同学* *
 ### ————————————————————————————————————————
 ## 联系方式 Contact Information Lîshǐ Fāonseq
 ### QQ——1696723279
