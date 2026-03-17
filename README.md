@@ -4,7 +4,7 @@
 
 ### ————————————————————————————————————————
 ## Minecraft 服务器  Minecraft Server Minecraft Veq wû chǐ
-# IP Address:  mc.starscraft.icu
+# IP Address:  [DATA DELETED]
 ### 版本要求  Required Version Pĕpen Iāujiêu
 ### Java Edition 1.12.X~1.21.8
 
@@ -24,7 +24,7 @@ Others coming soon, check Contact Information if you need to apply
 Cǐnchin Jîdê, Sēnchǐn chin khǒe Lîshǐ Fāonseq
 ### ————————————————————————————————————————
 ## 赞助 Donate Tsězû
-![WeChat](wechat.jpg)
+![WeChat](wechaty.jpg)
 ![Alipay](alipay.jpg)
 ## *感谢：*Stars8989某位不愿透露姓名的同学* *
 ### ————————————————————————————————————————
@@ -33,7 +33,7 @@ Cǐnchin Jîdê, Sēnchǐn chin khǒe Lîshǐ Fāonseq
 ### Discord——stars.8989
 ### LINE——fanxindiandian5258
 ### E-mail——stars8989@126.com
-### 交流群  Discussion Ciāu Liêu Jiûn : 149382785（暂时关闭）（QQ）；[Discord](https://discord.gg/RasRmwySXh)
+### 交流群  Discussion Ciāu Liêu Jiûn : 149382785（QQ）；[Discord](https://discord.gg/RasRmwySXh)
 
 
 
